@@ -10,7 +10,7 @@
   ### 2. Clean the data (i.e., flag bots and non-English comments)
   ### 3. Fit a LDA model
 
-## -Steps (Sentiment Analysis (SA)) (programming language: R):
+## -Steps (Sentiment Analysis) (programming language: R):
   ### 1. Clean the comments
   ### 2. Create a custom sentiment analysis dictionary
   ### 3. Compute the polarity score for each of the comments
