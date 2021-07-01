@@ -11,6 +11,6 @@
   ### 3. Fit a LDA model to the cleaned data
 
 ## -Steps (Sentiment Analysis) (programming language: R):
-  ### 1. Further clean the comments
-  ### 2. Create a sentiment analysis custom-dictionary
+  ### 1. Clean the comments
+  ### 2. Create a custom sentiment analysis dictionary
   ### 3. Compute the polarity score for each of the comments
