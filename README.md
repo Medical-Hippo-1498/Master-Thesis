@@ -1,4 +1,4 @@
-# Title: Added Value of User-Generated Content in Online Adult Entertainment
+# Title: The Added Value of User-Generated Content in Online Adult Entertainment
   #### Description: 
 This GitHub project was created in the context of my Master Thesis for the program of Business Intelligence and Smart Services at Maastricht University.
   
