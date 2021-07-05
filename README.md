@@ -10,8 +10,7 @@ In this thesis, I fill a gap in the academic literature by deriving the added va
 ##
 ## -Second assessor: Assistant Professor Dr. Catalina Goanta
 ##
-### Feel free to contact me via h.othman@student.maastrichtuniversity.nl or othman.harris@gmail.com in case you have any questions with regard to this project.
-
+### In case you have any questions with regard to this project, feel free to contact me via h.othman@student.maastrichtuniversity.nl or othman.harris@gmail.com .
 #
 ## -Steps (Topic Modelling (TM)) (Programming language: Python):
   ### 1. Transform the data for analysis (i.e., flatten the json file based on the number of comments per video)
