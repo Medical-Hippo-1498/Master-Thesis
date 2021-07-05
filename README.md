@@ -8,6 +8,8 @@ In this thesis, I fill a gap in the academic literature by deriving the added va
 ##
 ## -Supervisor: Asssitant Professor Dr. Leto Peel
 ##
+## -Second assessor: Assistant Professor Dr. Catalina Goanta
+##
 ### Feel free to contact me via h.othman@student.maastrichtuniversity.nl or othman.harris@gmail.com in case you have any questions with regard to this project.
 
 #
