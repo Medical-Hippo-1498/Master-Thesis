@@ -300,9 +300,8 @@ dictionary = gensim.corpora.Dictionary(processed_docs)
 ### We filter out words that:
     #### -Are present in less than 15 comments (too rare)
     #### -In more than 50% of the comments (too numerous --> stopwords)
-    #### - After the first two steps, we only keep the first 100k tokens/words (further filtering of stopwords)
 	
-dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)
+dictionary.filter_extremes(no_below=15, no_above=0.5)
 bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
 
 
